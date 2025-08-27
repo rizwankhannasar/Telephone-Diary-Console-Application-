@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monady project Presentation", "Monady project Presentation\Monady project Presentation.csproj", "{DDF914D6-BD9C-4C56-88CF-391EA40E70C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF914D6-BD9C-4C56-88CF-391EA40E70C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF914D6-BD9C-4C56-88CF-391EA40E70C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF914D6-BD9C-4C56-88CF-391EA40E70C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF914D6-BD9C-4C56-88CF-391EA40E70C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4DD1B3-A7E6-4BED-AE10-84910295E5BD}
+	EndGlobalSection
+EndGlobal
