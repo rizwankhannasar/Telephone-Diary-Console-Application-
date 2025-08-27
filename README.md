@@ -82,7 +82,6 @@ DeleteContact() removes a contact and shifts the array.
 
 ## 🔗 Developer Profile
 
-Created and maintained by Rizwan khab
 
 Created & maintained by <span style="color:blue">RIZWAN KHAN</span>
 
