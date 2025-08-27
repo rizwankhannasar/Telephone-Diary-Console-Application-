@@ -58,30 +58,29 @@ Instructor: <span style="color:blue">Chairman Noman Sir</span>
 
 The program starts with a menu:
 
-Add Contact
+- Add Contact
 
-View Contacts
+- View Contacts
 
-Search Contact
+- Search Contact
 
-Delete Contact
+- Delete Contact
 
-Exit
+- Exit
 
 When the user selects an option, the relevant function is called.
 
 Contacts are stored in an array with a maximum capacity of 100.
 
-AddContact() collects user input with styled text prompts.
+- AddContact() collects user input with styled text prompts.
 
-ViewContacts() displays all saved contacts.
+- ViewContacts() displays all saved contacts.
 
-SearchContact() checks all fields for a matching keyword.
+- SearchContact() checks all fields for a matching keyword.
 
-DeleteContact() removes a contact and shifts the array.
+- DeleteContact() removes a contact and shifts the array.
 
 ## 🔗 Developer Profile
-
 
 Created & maintained by <span style="color:blue">RIZWAN KHAN</span>
 
